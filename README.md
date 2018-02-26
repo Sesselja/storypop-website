@@ -1,6 +1,4 @@
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/8Lq4iZwvjcs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
 ## Make a structured interview
 
 Make a script (questions and directions) or use our script templates in Typeform and invite multiple interviewees, influencers, community, fans, reportsers, internal comms, behind the scenes, broadcast to get interviewed by Storypop bot.
