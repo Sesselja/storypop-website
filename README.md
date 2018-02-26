@@ -1,6 +1,4 @@
----
-title: Storypop
----
+
 ## Welcome to Storypop
 
 We make interviewing easy and fun 
