@@ -15,6 +15,6 @@ For Storypop Beta, customers have to use [Typeform](https://typeform.com) and [D
 
 -----
 <small>Tagplay, Inc. 2018
-New York, NY
+New York, NY</small>
 
-[Terms & Privacy](https://tagplay.co/terms)</small>
+<small>[Terms & Privacy](https://tagplay.co/terms)</small>
