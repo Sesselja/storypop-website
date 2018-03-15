@@ -9,7 +9,7 @@ It’s perfect for online video/audio publishers and content marketers. It’s h
 Easily make video & audio for profile interviews, opinions on products, current events, news or quotes for you from your fans, employees or community.
 
 -----
-For Storypop Beta, customers must use [Typeform](https://typeform.com) and [Dropbox](https://dropbox.com). [See more how Storypop works here](/faq).
+For Storypop Beta, customers must use [Typeform](https://typeform.com) and [Dropbox](https://dropbox.com). [See more on how Storypop works here](/faq).
 
 <small>[Contact us](mailto:storypop@storypop.co)</small>
 
