@@ -5,7 +5,7 @@
 2. Optionally, you can connect your Dropbox account if you want the content to be uploaded to a Dropbox folder.
 3. Make scripts (question sets and directions) in Storypop.
 4. Copy/Paste an invite link from Storypop and send it to your interviewees.
-5. Your interviewees click the link and record the video/audio interview themselves with the pre-set question and directions from the Storypop bot on their time in [Facebook Messenger](https://messenger.com) or Workplace chat.
+5. Your interviewees click the link and record the video/audio interview themselves with the pre-set question and directions from the Storypop bot on their time in [Facebook Messenger](https://messenger.com) or [Workplace chat](https://www.facebook.com/workplace/chat-app?path=chat-app).
 6. All of the videos collected from the interview will be automatically available on your Storypop dashboard and posted to your Dropbox folder (if you connected Dropbox).
 
 ## How do I make scripts/question sets in Storypop?
@@ -17,7 +17,7 @@ For each script, you can add as many questions as you like using the **Add quest
 - To make your interviewee accept legal terms before the interview can proceed, select the **Agree to terms** type.
 - To create a simple question asking for a video, audio, photo or text answer from the user, select the **Question** type.
 - To simply show a message to the interviewee without prompting an answer (such as an introduction, instructions pertaining to the following questions, or thank you message at the end of the interview), use the **Statement** type.
-- To make the interviewee to upload B-roll footage (extra footage captured to enrich the story you're telling and to have greater flexibility when editing), use the **B-roll footage** type.
+- To make the interviewee upload B-roll footage (extra footage captured to enrich the story you're telling and to have greater flexibility when editing), use the **B-roll footage** type.
 - To ask for the user's **E-mail address**, **Phone number** or **Location**, use the respective types (this lets Facebook Messenger provide quick replies for convenience).
 - To ask a simple yes or no question, use the **Yes/no question** type.
 
